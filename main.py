@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-print("Hello world")
+Adding a different comment
 
 def main(msg):
     print(msg)
